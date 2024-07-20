@@ -40,7 +40,7 @@ const Hero = () => {
                 </div>
 
                 <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-                    Payment Method.
+                
                 </h1>
                 <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
                 Experience the vibrant flavors and sleek design, capturing the spirit of the city in every puff.

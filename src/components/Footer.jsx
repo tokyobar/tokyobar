@@ -46,7 +46,7 @@ const Footer = () => (
 
         <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
             <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
-            <a href="http://api.whatsapp.com/send?phone=971563901109&amp;text=Hi%20Anas%20%0aI%20would%20like%20to%20discuss%20about%20building%20a%20website%20like%20stokyobar">Contact Website Developer</a>
+            <a href="http://api.whatsapp.com/send?phone=971563901109&amp;text=Hi%20Anas%20%0aI%20would%20like%20to%20discuss%20about%20building%20a%20website%20like%20tokyobar">Contact Website Developer</a>
             </p>
 
             <div className="flex flex-row gap-[24px] md:mt-0 mt-6">
