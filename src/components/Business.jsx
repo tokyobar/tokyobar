@@ -40,7 +40,7 @@ const Business = () => (
             className={layout.sectionInfo}
         >
             <h2 className={styles.heading2}>
-            Experience the true taste of authenticity <br className="sm:block hidden" /> with TokyoBar Vapes.
+            Experience the true <br className="sm:block hidden" /> taste of authenticity.
             </h2>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
             The true taste of authenticity with TokyoBar Vapes. We use only genuine ingredients and materials, 
