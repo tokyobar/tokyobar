@@ -38,9 +38,9 @@ export const features = [
     {
         id: 'feature-1',
         icon: star,
-        title: 'Rewards',
+        title: 'Ingredients',
         content:
-            'The best credit cards offer some tantalizing combinations of promotions and prizes',
+            'We use only genuine ingredients and materials, providing you with a vaping experience that is as real as it gets',
     },
     {
         id: 'feature-2',

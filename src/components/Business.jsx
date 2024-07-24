@@ -40,13 +40,11 @@ const Business = () => (
             className={layout.sectionInfo}
         >
             <h2 className={styles.heading2}>
-                You do the business, <br className="sm:block hidden" /> we’ll
-                handle the money.
+            Experience the true taste of authenticity <br className="sm:block hidden" /> with TokyoBar Vapes.
             </h2>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                With the right credit card, you can improve your financial life
-                by building credit, earning rewards and saving money. But with
-                hundreds of credit cards on the market.
+            The true taste of authenticity with TokyoBar Vapes. We use only genuine ingredients and materials, 
+            providing you with a vaping experience that is as real as it gets.
             </p>
 
             <Button styles={`mt-10`} />

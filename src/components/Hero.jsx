@@ -24,8 +24,8 @@ const Hero = () => {
                         className="w-[32px] h-[32px]"
                     />
                     <p className={`${styles.paragraph} ml-2`}>
-                        <span className="text-white">20%</span> Discount For{' '}
-                        <span className="text-white">1 Month</span> Account
+                        <span className="text-white">100%</span> Great{' '}
+                        <span className="text-white">Flavours</span> Guarenteed
                     </p>
                 </div>
 
