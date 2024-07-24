@@ -1,10 +1,10 @@
-import { Blueberry, Grape, Lushkiwi, MangoIce, Mangostrawberry, MintIce, Peachice, Strawberrykiwi, Strawberrywatermelon, Watermelon } from '../assets';
+import { blueberry, grape, lushkiwi, mangoIce, mangostrawberry, mintIce, peachice, strawberrykiwi, strawberrywatermelon, watermelon } from '../assets';
 import styles, { layout } from '../style';
 import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
 import { variants } from '../library/framer';
 
-const images = [Blueberry, Grape, Lushkiwi, MangoIce, Mangostrawberry, MintIce, Peachice, Strawberrykiwi, Strawberrywatermelon, Watermelon];
+const images = [blueberry, grape, lushkiwi, mangoIce, mangostrawberry, mintIce, peachice, strawberrykiwi, strawberrywatermelon, watermelon];
 const texts = ["Blueberry Ice", "Grape Ice", "Lush kiwi Ice", "Mango Ice", "Mango Strawberry Ice", "Mint Ice", "Peach Ice", "Strawberry Kiwi", "Strawberry Watermelon Ice", "Watermelon Ice"];
 
 const Billing = () => {

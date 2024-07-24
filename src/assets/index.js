@@ -1,5 +1,14 @@
 import airbnb from "./airbnb.png";
-import bill from "./bill.png";
+import blueberry from "./blueberry.png";
+import grape from "./grape.png";
+import lushkiwi from "./lushkiwi.png";
+import mangoIce from "./mangoIce.png";
+import mangostrawberry from "./mangostrawberry.png";
+import mintIce from "./mintIce.png";
+import peachice from "./peachice.png";
+import strawberrykiwi from "./strawberrykiwi.png";
+import strawberrywatermelon from "./strawberrywatermelon.png";
+import watermelon from "./watermelon.png";
 import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
@@ -26,7 +35,16 @@ import people03 from "./people03.png";
 
 export {
   airbnb,
-  bill,
+  blueberry,
+  grape,
+  lushkiwi,
+  mangoIce,
+  mangostrawberry,
+  mintIce,
+  peachice,
+  strawberrykiwi,
+  strawberrywatermelon,
+  watermelon,
   binance,
   card,
   coinbase,
