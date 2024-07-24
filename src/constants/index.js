@@ -70,16 +70,16 @@ export const feedback = [
     {
         id: 'feedback-2',
         content:
-            "Money makes your life easier. If you're lucky to have it, you're lucky.",
-        name: 'Steve Mark',
+            'Switching to TokyoBar Vapes was the best decision I made. The quality and authenticity are unparalleled.',
+        name: ' Muna Al-Shaerark',
         title: 'Customer',
         img: people02,
     },
     {
         id: 'feedback-3',
         content:
-            'It is usually people in the money business, finance, and international trade that are really rich.',
-        name: 'Kenn Gallagher',
+            'I highly recommend TokyoBar Vapes to anyone looking for a premium and authentic vaping product',
+        name: 'Rami',
         title: 'Customer',
         img: people03,
     },
