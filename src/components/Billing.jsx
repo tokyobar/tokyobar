@@ -30,7 +30,7 @@ const Billing = () => {
                 <img
                     src={images[currentIndex]}
                     alt={texts[currentIndex]}
-                    className="md:max-w-none max-w-lg w-[100%] h-auto relative z-[5]"
+                    className="md:max-w-none max-w-[60%] w-[100%] h-auto relative z-[5]"
                 />
 
                 {/* gradient start */}
