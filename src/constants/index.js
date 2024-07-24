@@ -45,16 +45,16 @@ export const features = [
     {
         id: 'feature-2',
         icon: shield,
-        title: '100% Secured',
+        title: 'Authenticity',
         content:
-            'We take proactive steps make sure your information and transactions are secure.',
+            'Each product is verified and crafted with genuine materials for unparalleled satisfaction.',
     },
     {
         id: 'feature-3',
         icon: send,
-        title: 'Balance Transfer',
+        title: 'Quality',
         content:
-            'A balance transfer credit card can save you a lot of money in interest charges.',
+            'Every TokyoBar Vape is certified 100% authentic, offering you peace of mind and exceptional quality.',
     },
 ]
 
