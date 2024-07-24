@@ -13,7 +13,7 @@ const Billing = () => {
     useEffect(() => {
         const interval = setInterval(() => {
             setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
-        }, 3000); // 3 seconds
+        }, 2500); // 2.5 seconds
 
         return () => clearInterval(interval);
     }, []);
