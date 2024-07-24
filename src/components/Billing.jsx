@@ -1,4 +1,4 @@
-
+import { bill } from '../assets'
 import styles, { layout } from '../style'
 import { motion } from 'framer-motion'
 import { variants } from '../library/framer'
